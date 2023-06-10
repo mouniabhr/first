@@ -1,0 +1,21 @@
+/*element selctor*/
+body {
+    background-color: rgb(190, 190, 240);
+}
+p{
+    color:brown ;
+    text-align: center;
+    font-size: size 8px ;
+    font-family:eurb10;
+}
+/*end element selctor*/
+
+/*class selector*/
+.warning {
+    color: red ;
+}
+/*id selector*/
+#cute{
+color:rgb(10, 241, 10) ;
+
+}
